@@ -17,5 +17,8 @@ Technologies used;
 I approached the task by creating a simple frontend using Laravel/Tailwind for the uploading of the
 file, and created a Service for uploading files through tests.
 
+In reviewing, I noted future improvements would include the creation of models, and database schema,
+which were sacrificed in the name of speed.
+
 David Mountford
 davidsmountford@gmail.com
